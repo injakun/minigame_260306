@@ -1,0 +1,21 @@
+[
+  { "english": "BOOK", "korean": "책" },
+  { "english": "HOME", "korean": "집" },
+  { "english": "RAIN", "korean": "비" },
+  { "english": "STAR", "korean": "별" },
+  { "english": "FISH", "korean": "물고기" },
+  { "english": "MILK", "korean": "우유" },
+  { "english": "SNOW", "korean": "눈" },
+  { "english": "WIND", "korean": "바람" },
+  { "english": "OCEAN", "korean": "바다" },
+  { "english": "BREAD", "korean": "빵" },
+  { "english": "STONE", "korean": "돌" },
+  { "english": "FLAME", "korean": "불꽃" },
+  { "english": "CHAIR", "korean": "의자" },
+  { "english": "BRIDGE", "korean": "다리" },
+  { "english": "PLANET", "korean": "행성" },
+  { "english": "CASTLE", "korean": "성" },
+  { "english": "FOREST", "korean": "숲" },
+  { "english": "ISLAND", "korean": "섬" },
+  { "english": "SPRING", "korean": "봄" }
+]
